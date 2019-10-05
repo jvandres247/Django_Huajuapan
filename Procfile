@@ -1,1 +1,1 @@
-web: gunicorn pallbot-andres.wsgi --log-file -
+web: gunicorn pallbot.wsgi --log-file -
